@@ -15,6 +15,7 @@ df = pd.read_csv("data.csv", encoding = "ISO-8859-1", sep=";")
 
 name = 'Robert Lewandowski'
 
+
 df_FW = df[df['Pos'] == 'FW']
 df_FW = df_FW[['Player', 'Pos', 'Comp', 'Squad', 'AerWon%']].copy()
 df_FW['Goals'] = round(df['Goals'] * df['90s'])
@@ -47,8 +48,13 @@ def showLeague(CompDropDown):
         def getBLPlayers(PlayerBLDropdown):
                 name = PlayerBLDropdown
                 list = df_FW[df_FW['Player'] == name].values.tolist()
-
-                print(list)
+                x = list[0]
+                x.pop(0)
+                x.pop(0)
+                x.pop(0)
+                x.pop(0)
+                print(x)
+                
 
         widgets.interact(getBLPlayers, PlayerBLDropdown=playerlistBL)
 
