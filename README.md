@@ -15,10 +15,10 @@ La Liga (ESP), Ligue 1 (FRA), Premier League (ENG), Serie A (ITA)).
 (done) Use of procedural programming or object-oriented programming (one or both).<br/>
 (done) Use of vizualizations/graphics to present the data<br/>
 
-<br/><br/><br/>
+<br/><br/>
 
 
-<b>Additional points for the project work if the following is met (max 5 points):</b><br/><br/>
+<b>Additional points for the project work if the following is met (max 5 points):</b><br/>
 
 (done) Creativity of implementation (creative is anything which is not part of the lessons and exercises).<br/>
 (-) Use of Docker<br/>
