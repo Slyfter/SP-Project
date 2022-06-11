@@ -24,7 +24,9 @@ The project must integrate several topics presented in the module, at a minimum 
 (done) Use of vizualizations/graphics to present the data
 
 
-Additional points for the project work if the following is met (max 5 points):
+
+
+<b>Additional points for the project work if the following is met (max 5 points):</b>
 
 (done) Creativity of implementation (creative is anything which is not part of the lessons and exercises).
 
