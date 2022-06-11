@@ -20,5 +20,4 @@ La Liga (ESP), Ligue 1 (FRA), Premier League (ENG), Serie A (ITA)).
 <b>Additional points for the project work if the following is met (max 5 points):</b><br/>
 
 (done) Creativity of implementation (creative is anything which is not part of the lessons and exercises).<br/>
-(-) Use of Docker<br/>
-(-) Use of a cloud service (e.g. EC2 instance, Jupyter notebook via Sagemaker).<br/>
+(done) Use of Docker<br/>
