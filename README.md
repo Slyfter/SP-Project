@@ -5,7 +5,7 @@ The goal if this project is to visualize football data from season 21/22 in orde
 La Liga (ESP), Ligue 1 (FRA), Premier League (ENG), Serie A (ITA)).
 
 
-The project must integrate several topics presented in the module, at a minimum these are the following: <br/><br/>
+<b>The project must integrate several topics presented in the module, at a minimum these are the following: <br/><br/></b>
 (done) Use of a real-world dataset (e.g. from Kaggle or other open data sources).<br/>
 (done) Creation of a GitHub repository with all data, Jupyter notebooks, Python scripts, etc.<br/>
 (done) Use of different data types<br/>
@@ -15,13 +15,11 @@ The project must integrate several topics presented in the module, at a minimum 
 (done) Use of procedural programming or object-oriented programming (one or both).<br/>
 (done) Use of vizualizations/graphics to present the data<br/>
 
+<br/><br/><br/>
 
 
+<b>Additional points for the project work if the following is met (max 5 points):</b><br/><br/>
 
-<b>Additional points for the project work if the following is met (max 5 points):</b>
-
-(done) Creativity of implementation (creative is anything which is not part of the lessons and exercises).
-
-(-) Use of Docker
-
-(-) Use of a cloud service (e.g. EC2 instance, Jupyter notebook via Sagemaker).
+(done) Creativity of implementation (creative is anything which is not part of the lessons and exercises).<br/>
+(-) Use of Docker<br/>
+(-) Use of a cloud service (e.g. EC2 instance, Jupyter notebook via Sagemaker).<br/>
